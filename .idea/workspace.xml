@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff030656-f66f-41f8-9d6c-9717f482e66c" name="Changes" comment="Added some string manipulation">
-      <change afterPath="$PROJECT_DIR$/001 Day/003_input_function.py" afterDir="false" />
+    <list default="true" id="ff030656-f66f-41f8-9d6c-9717f482e66c" name="Changes" comment="input function">
+      <change afterPath="$PROJECT_DIR$/001 Day/04_variables.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001 Day/003_input_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/001 Day/03_input_function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001 Day/01_hello_world.py" beforeDir="false" afterPath="$PROJECT_DIR$/001 Day/01_hello_world.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +85,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713292145386</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="input function">
+      <option name="closed" value="true" />
+      <created>1713292972825</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713292972825</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,6 +111,7 @@
     <MESSAGE value="First python code" />
     <MESSAGE value="Added some printing function" />
     <MESSAGE value="Added some string manipulation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added some string manipulation" />
+    <MESSAGE value="input function" />
+    <option name="LAST_COMMIT_MESSAGE" value="input function" />
   </component>
 </project>
