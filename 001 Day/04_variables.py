@@ -1,0 +1,6 @@
+name = input("What is your name? ")
+age = input("How old are you? ")
+name_length = len(name)
+print("Hello " + name + "!")
+print(f"{name} has {name_length} characters length.")
+print(f"I am {age} years old.")

@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff030656-f66f-41f8-9d6c-9717f482e66c" name="Changes" comment="input function">
-      <change afterPath="$PROJECT_DIR$/001 Day/04_variables.py" afterDir="false" />
+    <list default="true" id="ff030656-f66f-41f8-9d6c-9717f482e66c" name="Changes" comment="input function and variable">
+      <change afterPath="$PROJECT_DIR$/001 Day/05_band_name_generator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001 Day/003_input_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/001 Day/03_input_function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001 Day/01_hello_world.py" beforeDir="false" afterPath="$PROJECT_DIR$/001 Day/01_hello_world.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001 Day/04_variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/001 Day/04_variables.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +38,8 @@
     "Python.003_input_function.executor": "Run",
     "Python.01_hello_world.executor": "Run",
     "Python.02_string_manipulation_and_code_inteligente.executor": "Run",
+    "Python.04_variables.executor": "Run",
+    "Python.05_band_name_generator.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -93,7 +94,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713292972825</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="input function and variable">
+      <option name="closed" value="true" />
+      <created>1713293437656</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1713293437656</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -112,6 +121,7 @@
     <MESSAGE value="Added some printing function" />
     <MESSAGE value="Added some string manipulation" />
     <MESSAGE value="input function" />
-    <option name="LAST_COMMIT_MESSAGE" value="input function" />
+    <MESSAGE value="input function and variable" />
+    <option name="LAST_COMMIT_MESSAGE" value="input function and variable" />
   </component>
 </project>
